@@ -1,6 +1,6 @@
 # Aha! website
 
-The landing page for **Aha! Your private agent**, published with GitHub Pages from `main`.
+The landing page for **aha! A Truly Private Personal Assistant**, published with GitHub Pages from `main`.
 
 - `index.html`: the whole page, plain HTML and CSS, no JavaScript. Three sections: the hero (title, the phone
   mock-up, a short paragraph), the diagram, and a form to join the mailing list (it posts to a Google Form; the emails land in its responses).
